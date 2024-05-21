@@ -34,4 +34,14 @@ Here are the steps we undertook to retrieve information about the artworks :
 
 <br>
 
-## Results
+## Further Exploration
+
+<br>
+
+Based on the csv files that have been built at step 3, I have developped a [Streamlit application](https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/tree/main) to display the artworks currently on display at the Louvre Museum in an interactive way. Below is a snapshot of the app :
+
+<br>
+
+<p align="center">
+  <a><img src="https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre.gif" width="360px" /></a>
+</p>
