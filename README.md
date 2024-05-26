@@ -43,5 +43,5 @@ Based on the csv files that have been built at step 3, I have developped a [Stre
 <br>
 
 <p align="center">
-  <a><img src="https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre.gif_2" width="360px" /></a>
+  <a><img src="https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre_2.gif" width="360px" /></a>
 </p>
